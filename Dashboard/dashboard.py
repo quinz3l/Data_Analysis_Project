@@ -68,7 +68,7 @@ sewa_perjam_df = sewa_perjam(hour_df)
 temperatur_df = temperatur_total(day_df)
 
 #Membuat dashboard
-st.header('Dicoding Project Dashboard :sparkles:')
+st.header('Data Analysis Project Dashboard :sparkles:')
 
 st.subheader('Pengaruh musim pada penyewaan sepeda')
 
