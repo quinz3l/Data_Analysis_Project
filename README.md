@@ -28,8 +28,10 @@ This project involves analyzing bike-sharing data and building a Streamlit dashb
 - README.md: Project documentation.
 
 ## Example Visualizations
-1. ![image](https://github.com/user-attachments/assets/ec9157f4-06b3-470d-8b72-436bd6a68865)
-2. ![image](https://github.com/user-attachments/assets/fcb99cf5-cd9d-48a4-8d07-dea11b93b94f)
+1. The influence of seasons on bike rentals
+![image](https://github.com/user-attachments/assets/89351595-047a-4eb5-915a-203ce5329e53)
+2. The influence of seasons on bike rentals
+![image](https://github.com/user-attachments/assets/fcb99cf5-cd9d-48a4-8d07-dea11b93b94f)
 
 ## Live Dashboard
 Check out the live dashboard [https://dashboard-deployment-arya.streamlit.app/]
